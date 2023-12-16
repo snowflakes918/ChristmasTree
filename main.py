@@ -73,7 +73,7 @@ for i in range(100):
 
 
 t.color("dark red", "red")
-t.write("Merry Christmas, Kevin!!!", align="center", font=("Comic Sans MS", 40, "bold"))
+t.write("Merry Christmas", align="center", font=("Comic Sans MS", 40, "bold"))
 
 
 def drawsnow():
